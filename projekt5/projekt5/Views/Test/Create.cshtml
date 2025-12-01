@@ -1,0 +1,61 @@
+﻿@model projekt5.Models.Klient
+@{
+	ViewData["Title"] = "CreateKlient";
+}
+
+<form asp-action="Create" method="post">
+	<div class="form-group">
+		<label for="name">Name</label>
+			<input type="text" class="form-control" asp-for="name"/>
+		<label for="surname">Surname</label>
+		<input type="text" class="form-control" asp-for="surname" />
+		<label for="pesel">PESEL</label>
+		<input type="text" class="form-control" asp-for="pesel" id="Pesel"/>
+		<label for="birthYeear">BirthYear</label>
+		<input type="text" class="form-control" asp-for="birthyear" readonly id="Birth"/>
+		<label for="płeć">Płeć</label>
+		<input type="text" class="form-control" asp-for="płeć" readonly id="Plec"/>
+	</div>
+	<input type="submit" value="SUBMIT" class="btn btn-outline-info" style="margin-top:20px"/>
+
+</form>
+<script>
+	function isValidPesel(pesel){
+		let weight = [1,3,7,9,1,3,7,9,1,3];
+		let suma = 0;
+		let kontrolna = parseInt(pesel.substring(10,11)); 
+		for(let i=0;i<weight.length;i++){
+			suma+=(parseInt(pesel.substring(i,i+1))*weight[i]);
+		}
+		suma%=10;
+		return (10-suma)%10 === kontrolna;
+	}
+	document.getElementById('Pesel').addEventListener('blur',function(){
+		var s_Pesel = document.getElementById('Pesel').value;
+		if(isValidPesel(s_Pesel)){
+		var s_rok = s_Pesel.substring(0,2);
+		var s_miesiac = s_Pesel.substring(2,4);
+		var s_plec = s_Pesel.substring(9,10);
+		var rok = parseInt(s_rok);
+		var miesiac = parseInt(s_miesiac);
+		var plec = parseInt(s_plec)%2;
+		var temp = 0;
+		if(miesiac<=12 && miesiac>0){
+			temp = temp + 1900;
+		}
+		else if(miesiac>=21 && miesiac<=32){
+			temp = temp + 2000;
+		}
+		else if(miesiac>=41 && miesiac<=52){
+			temp = temp+2100;
+		}
+		temp=temp+rok;
+		document.getElementById('Birth').value=temp;
+		document.getElementById('Plec').value=plec;
+
+		}
+		else{
+			alert("błędny pesel");
+		}
+	});
+</script>

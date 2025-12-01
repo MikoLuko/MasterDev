@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f98HMH4ooBs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikołaj\\source\\repos\\zad3\\zad3\\zad3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikołaj\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

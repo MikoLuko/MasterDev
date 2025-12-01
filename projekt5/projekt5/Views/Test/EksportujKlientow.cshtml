@@ -1,0 +1,14 @@
+﻿@{
+
+}
+<form asp-action="EksportujKlientow" method="get">
+    <div class="form-group">
+        <label for="format">Wybierz format pliku:</label>
+        <select name="format" id="format" class="form-control">
+            <option value="csv">CSV</option>
+            <option value="xlsx">XLSX</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-success mt-2">Eksportuj</button>
+</form>
+

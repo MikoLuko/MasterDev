@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\views\\test\\importcsv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\views\\test\\importcsv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\views\\test\\eksportujklientow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\views\\test\\eksportujklientow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\models\\klient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\models\\klient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\projekt5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\projekt5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\data\\projekt5context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\data\\projekt5context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|c:\\users\\mluko\\onedrive\\desktop\\masterdev\\masterdev\\projekt5\\projekt5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ABF13E-08BA-2973-4BC8-3A4A3C090CAF}|projekt5\\projekt5.csproj|solutionrelative:projekt5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EksportujKlientow.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Test\\EksportujKlientow.cshtml",
+              "RelativeDocumentMoniker": "projekt5\\Views\\Test\\EksportujKlientow.cshtml",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Test\\EksportujKlientow.cshtml",
+              "RelativeToolTip": "projekt5\\Views\\Test\\EksportujKlientow.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T16:35:21.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Program.cs",
+              "RelativeDocumentMoniker": "projekt5\\Program.cs",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Program.cs",
+              "RelativeToolTip": "projekt5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:57:35.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "projekt5Context.cs",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Data\\projekt5Context.cs",
+              "RelativeDocumentMoniker": "projekt5\\Data\\projekt5Context.cs",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Data\\projekt5Context.cs",
+              "RelativeToolTip": "projekt5\\Data\\projekt5Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:53:46.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "projekt5.csproj",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\projekt5.csproj",
+              "RelativeDocumentMoniker": "projekt5\\projekt5.csproj",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\projekt5.csproj",
+              "RelativeToolTip": "projekt5\\projekt5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T01:52:38.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Klient.cs",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Models\\Klient.cs",
+              "RelativeDocumentMoniker": "projekt5\\Models\\Klient.cs",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Models\\Klient.cs",
+              "RelativeToolTip": "projekt5\\Models\\Klient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:49:38.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\appsettings.json",
+              "RelativeDocumentMoniker": "projekt5\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\appsettings.json",
+              "RelativeToolTip": "projekt5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T01:38:50.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "projekt5\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Controllers\\TestController.cs",
+              "RelativeToolTip": "projekt5\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAASwMYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:36:44.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "projekt5\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "projekt5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:20:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportCSV.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Test\\ImportCSV.cshtml",
+              "RelativeDocumentMoniker": "projekt5\\Views\\Test\\ImportCSV.cshtml",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Test\\ImportCSV.cshtml",
+              "RelativeToolTip": "projekt5\\Views\\Test\\ImportCSV.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T10:54:44.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Test\\Create.cshtml",
+              "RelativeDocumentMoniker": "projekt5\\Views\\Test\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Test\\Create.cshtml",
+              "RelativeToolTip": "projekt5\\Views\\Test\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:35:06.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "projekt5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "projekt5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T13:55:28.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "projekt5\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "projekt5\\Views\\Test\\Index.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAK4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T02:46:59.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Test\\Edit.cshtml",
+              "RelativeDocumentMoniker": "projekt5\\Views\\Test\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Test\\Edit.cshtml",
+              "RelativeToolTip": "projekt5\\Views\\Test\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T08:54:21.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "projekt5\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "projekt5\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T13:55:42.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "projekt5\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "projekt5\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T08:58:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "projekt5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Mluko\\OneDrive\\Desktop\\MasterDev\\MasterDev\\projekt5\\projekt5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "projekt5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAABIMAAAAAAAAAADgvyMMAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-27T09:48:33.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
